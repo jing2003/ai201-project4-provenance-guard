@@ -1,0 +1,32 @@
+{
+    "attribution": "likely_ai",
+    "combined_ai_score": 0.77,
+    "confidence": 0.77,
+    "content_id": "5d78345b-1c94-4729-b578-7c0664792fcb",
+    "creator_id": "demo-ai",
+    "label": "This content appears likely to be AI-generated. This label is based on writing-pattern signals and may be appealed by the creator.",
+    "signals": {
+        "formulaic_score": 1.0,
+        "groq_reasoning": "The text features overly formal language and generic statements, which are common characteristics of AI-generated content.",
+        "groq_score": 0.8,
+        "matched_formulaic_phrases": [
+            "it is important to note",
+            "furthermore",
+            "transformative",
+            "paradigm shift",
+            "stakeholders",
+            "responsible deployment",
+            "various sectors",
+            "ethical implications"
+        ],
+        "stylometric_metrics": {
+            "avg_sentence_length": 14.33,
+            "casual_marker_count": 1,
+            "punctuation_density": 0.12,
+            "sentence_length_variance": 29.56,
+            "type_token_ratio": 0.88
+        },
+        "stylometric_score": 0.55
+    },
+    "status": "classified"
+}

@@ -1,0 +1,15 @@
+{
+    "attribution": "likely_human",
+    "combined_ai_score": 0.27,
+    "confidence": 0.73,
+    "content_id": "898f32f6-4677-4bff-afcc-43dd02acd5a2",
+    "content_type": "image_metadata",
+    "creator_id": "metadata-user-1",
+    "label": "This content appears likely to be written by a person. No AI-generated label is being shown.",
+    "signals": {
+        "formulaic_score": 0.0,
+        "groq_score": 0.2,
+        "stylometric_score": 0.55
+    },
+    "status": "classified"
+}

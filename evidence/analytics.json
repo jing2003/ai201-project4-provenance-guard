@@ -1,0 +1,8 @@
+{
+    "appeal_rate": 0.08,
+    "average_confidence": 0.73,
+    "likely_ai_ratio": 0.11,
+    "likely_human_ratio": 0.81,
+    "total_submissions": 36,
+    "uncertain_ratio": 0.08
+}

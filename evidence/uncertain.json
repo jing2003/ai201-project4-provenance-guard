@@ -1,0 +1,26 @@
+{
+    "attribution": "uncertain",
+    "combined_ai_score": 0.38,
+    "confidence": 0.52,
+    "content_id": "1bf10d64-a3aa-4870-9ec0-1fa0b6b33d25",
+    "creator_id": "demo-uncertain",
+    "label": "We are not confident enough to say whether this was written by a person or generated with AI.",
+    "signals": {
+        "formulaic_score": 0.4,
+        "groq_reasoning": "The text has a personal tone and balanced perspective, which is more typical of human writing, but the structure and language used are clear and organized, which could be indicative of AI influence.",
+        "groq_score": 0.2,
+        "matched_formulaic_phrases": [
+            "it is important to note",
+            "overall"
+        ],
+        "stylometric_metrics": {
+            "avg_sentence_length": 14.5,
+            "casual_marker_count": 1,
+            "punctuation_density": 0.21,
+            "sentence_length_variance": 24.75,
+            "type_token_ratio": 0.79
+        },
+        "stylometric_score": 0.66
+    },
+    "status": "classified"
+}

@@ -1,0 +1,23 @@
+{
+    "attribution": "likely_human",
+    "combined_ai_score": 0.16,
+    "confidence": 0.84,
+    "content_id": "ee2f66ad-0417-4411-9b3b-5f5add4ae80f",
+    "creator_id": "demo-human",
+    "label": "This content appears likely to be written by a person. No AI-generated label is being shown.",
+    "signals": {
+        "formulaic_score": 0.0,
+        "groq_reasoning": "the text contains informal language, personal opinions, and casual tone, which are characteristic of human-written reviews",
+        "groq_score": 0.2,
+        "matched_formulaic_phrases": [],
+        "stylometric_metrics": {
+            "avg_sentence_length": 11.0,
+            "casual_marker_count": 6,
+            "punctuation_density": 0.07,
+            "sentence_length_variance": 45.2,
+            "type_token_ratio": 0.87
+        },
+        "stylometric_score": 0.2
+    },
+    "status": "classified"
+}
